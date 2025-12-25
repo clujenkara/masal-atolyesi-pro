@@ -1,6 +1,6 @@
 # Masal Atölyesi PRO
 
-Bu proje, **Mühendislikte Bilgisayar Uygulamaları** dersi kapsamında geliştirilmiştir.
+Bu proje, **İskenderun Teknik Üniversitesi Mühendislikte Bilgisayar Uygulamaları 1** dersi kapsamında geliştirilmiştir.
 
 ## 📚 Proje Amacı
 Çocuklara yönelik, seçilen konu ve yaşa uygun olarak:
